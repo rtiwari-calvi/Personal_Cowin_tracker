@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\r.tiwari\\source\\repos\\CowinCheck\\CowinCheck\\CowinCheck.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\r.tiwari\\source\\repos\\CowinCheck\\CowinCheck\\CowinCheck.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.tiwari\\source\\repos\\CowinCheck\\CowinCheck\\CowinCheck.csproj",
+        "projectName": "CowinCheck",
+        "projectPath": "C:\\Users\\r.tiwari\\source\\repos\\CowinCheck\\CowinCheck\\CowinCheck.csproj",
+        "packagesPath": "C:\\Users\\r.tiwari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r.tiwari\\source\\repos\\CowinCheck\\CowinCheck\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\r.tiwari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Calvi\\Code\\calvi-apps\\calvi-apps\\src\\portal-api\\tools\\SAMLv20.Core-licensed\\SAML_for_.NET_Core\\Binaries": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.Windows.Extensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
